@@ -256,7 +256,7 @@ a {
 
 a:hover {
 	border-bottom-color: transparent;
-	color: #00D3B7;
+	color: #f2ab3f;
 }
 
 strong,
@@ -413,8 +413,8 @@ input[type="reset"]:hover,
 input[type="button"]:hover,
 button:hover,
 .button:hover {
-	border-color: #00D3B7;
-	color: #00D3B7;
+	border-color: #f2ab3f;
+	color: #f2ab3f;
 }
 
 input[type="submit"]:hover:active,
@@ -526,7 +526,7 @@ input[type="password"]:focus,
 input[type="email"]:focus,
 select:focus,
 textarea:focus {
-	border-color: #00D3B7;
+	border-color: #f2ab3f;
 }
 
 select {
@@ -669,7 +669,7 @@ input[type="radio"]:checked+label:before {
 
 input[type="checkbox"]:focus+label:before,
 input[type="radio"]:focus+label:before {
-	border-color: #00D3B7;
+	border-color: #f2ab3f;
 }
 
 input[type="checkbox"]+label:before {
@@ -1117,7 +1117,7 @@ body.is-preload-1 #main {
 	top: 0;
 	width: 100%;
 	height: 100%;
-	box-shadow: inset 0 0 0 2px #00D3B7, inset 0 0 0px 3px rgba(0, 0, 0, 0.15);
+	box-shadow: inset 0 0 0 2px #f2ab3f, inset 0 0 0px 3px rgba(0, 0, 0, 0.15);
 	opacity: 0;
 	z-index: 1;
 }
